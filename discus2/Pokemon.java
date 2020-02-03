@@ -16,5 +16,7 @@ public class Pokemon {
 		poke.level = level;
 		level = 50;
 		poke = new Pokemon("Gengar", 1);
-	}
+	}	
 }
+
+/** This would print Name: Pikachu, Level: 100 */
